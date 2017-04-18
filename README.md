@@ -1,11 +1,11 @@
 # Delhi-University
 <html>
-#<marquee><b><i>DU</i></b></marquee>
+<marquee><b><i>DU</i></b></marquee>
 <table>
 <tr>
-<th><b>Page Title</b></th>
-<th><b>Description</b></th>
-<th><b>Suggestion Box</b></th>
+#<th><b>Page Title</b></th>
+#<th><b>Description</b></th>
+#<th><b>Suggestion Box</b></th>
 </tr>
 <tr>
 <th>Page Title</th>
