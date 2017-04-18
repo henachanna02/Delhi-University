@@ -21,7 +21,7 @@
 </tr>
 <tr>
 <th>Age</th>
-<td>28th fabruary 2017 05:00:00 utc</td>
+<td>28th February 2017 05:00:00 utc</td>
 </tr>
 <tr>
 
