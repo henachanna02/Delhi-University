@@ -27,7 +27,6 @@
 <td>28th February 2017 05:00:00 UTC</td>
 </tr>
 <tr>
-
 <th>HTML Page Size Test</th>
 <td>The HTML size of this page is 83.71KB. This lowers the speed of loading the page.</td>
 <td> This is highly exceeding the average limit i.e.33KB. </td>
@@ -64,8 +63,8 @@
 <td>A sitemap is a list of pages of a website accessible to the crawlers and users. It is highly advisory to have sitemap.</td>
 <tr>
 <th>Robots.txt Test<th>
-<td>A Robots.txt file is being used by this website.<td>
-<td>This tool shows blocks web crawlers from specific URLs from the website. This disallows certain files and content on the website and excludes t from indexing.</td>
+<td>A Robots.txt file is being used by this website.</td>
+<td>This tool shows blocks web crawlers from specific URLs from the website. This disallows certain files and content on the website and excludes it from indexing.</td>
 </tr>
 <tr>
 <th>Google Search Preview</th>
