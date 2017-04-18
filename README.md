@@ -14,41 +14,62 @@
 </tr>
 <tr>
 <th>Meta Description</th>
-<td>Most search engines will truncate meta descriptions to 160 characters.</td>
+<td>The Meta Description of this page is 0 characters.</td>
+<td>It is advised to formulate 160 characters for search engines to truncate.</td>
 </tr>
 <tr>
 <th>Keywords Test</th>
-<td>Search Engine Alogorithms have evolved beyond keyword density metrics as a significant ranking factor it can be useful however to note which keywords appear most often in the page and if they reflect the intended topic of your page more importantly the keywords in your page should appear within natural sounding and grammatically correct copy</td>
+<td>Currently there is no optimum keyword density. </td>
+<td>It is vital to be aware of which keywords are used frequently on the page. They reflect the intended topic and genre of your page when searched about. </td>
 </tr>
 <tr>
 <th>Age</th>
-<td>28th February 2017 05:00:00 utc</td>
+<td>28th February 2017 05:00:00 UTC</td>
 </tr>
 <tr>
 
 <th>HTML Page Size Test</th>
-<td>10.24 kb</td>
+<td>The HTML size of this page is 83.71KB. This lowers the speed of loading the page.</td>
+<td> This is highly exceeding the average limit i.e.33KB. </td>
 </tr>
 <tr>
 <th>HTML Compression Test</th>
-<td>GZip compression</td>
+<td>This page is not using HTML Compression currently.</td>
+<td>It is thoroughly advised to use HTML Compression Test like gzip compression.</td>
 </tr>
 <tr>
-
+<th>Depricated HTML Tags</th>
+<td>Currently, this page is utilizing depricated HTML Tags, which can be harmful.</td>
+<td>Formulate to remove this condition.</td>
+<tr>
 <th>Page Rank</th>
 <td>7</td>
 </tr>
 <tr>
 <th>Image ALT test</th>
-<td>require 'alt'attribute</td>
+<td>This page currently consists of 13 "img" tags.</td>
+<td>Twelve out of thirteen tags in the page are missing the mandatory "alt" attribute.</td>
 </tr>
 <tr>
+<th>Broken Links Test</th>
+<td>None of the links appearing on the website seem to be broken. In total, currently, there are 316 distinct anchor links for this website.</td>
+<td>This tool prevents web-crawlers from damaging the website, henceforth, it has to be functional. It preserves the site's ranking and usability.</td>
+<tr>
+<th>Image CSS Test</th>
+<td>Currently, this page uses 122 inline CSS Styles.</td>
+<td>Formulate to remove this condition.</td>
+<tr>
 <th>Site Maps</th>
-<td>1site map in this website</td>
+<td>Currently, there is 1 sitemap for this website.</td>
+<td>A sitemap is a list of pages of a website accessible to the crawlers and users. It is highly advisory to have sitemap.</td>
+<tr>
+<th>Robots.txt Test<th>
+<td>A Robots.txt file is being used by this website.<td>
+<td>This tool shows blocks web crawlers from specific URLs from the website. This disallows certain files and content on the website and excludes t from indexing.</td>
 </tr>
 <tr>
 <th>Google Search Preview</th>
-<td>home university of delhi http://www.du.ac.in/  skip to navigation skip to content uic.cic.duwa.du radio.dumail.contact us.</td>
+<td>Home - University of Delhi http://www.du.ac.in/  (Skip to navigate); Skip to Content uic.cic.duwa.du radio.dumail.contact us.</td>
 </tr>
 </table>
 </html>
