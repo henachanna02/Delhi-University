@@ -40,6 +40,7 @@
 <th>Depricated HTML Tags</th>
 <td>Currently, this page is utilizing depricated HTML Tags, which can be harmful.</td>
 <td>Formulate to remove this condition.</td>
+</tr>
 <tr>
 <th>Page Rank</th>
 <td>7</td>
@@ -53,14 +54,17 @@
 <th>Broken Links Test</th>
 <td>None of the links appearing on the website seem to be broken. In total, currently, there are 316 distinct anchor links for this website.</td>
 <td>This tool prevents web-crawlers from damaging the website, henceforth, it has to be functional. It preserves the site's ranking and usability.</td>
+</tr>
 <tr>
 <th>Image CSS Test</th>
 <td>Currently, this page uses 122 inline CSS Styles.</td>
 <td>Formulate to remove this condition.</td>
+</tr>
 <tr>
 <th>Site Maps</th>
 <td>Currently, there is 1 sitemap for this website.</td>
 <td>A sitemap is a list of pages of a website accessible to the crawlers and users. It is highly advisory to have sitemap.</td>
+</tr>
 <tr>
 <th>Robots.txt Test</th>
 <td>A Robots.txt file is being used by this website.</td>
