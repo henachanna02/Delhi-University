@@ -27,8 +27,8 @@
 <td>10.24 kb</td>
 </tr>
 <tr>
-<th>html compreession test</th>
-<td>gzip compression</td>
+<th>HTML Compreession Test</th>
+<td>GZip compression</td>
 </tr>
 <tr>
 
@@ -36,15 +36,15 @@
 <td>7</td>
 </tr>
 <tr>
-<th>image alt test</th>
+<th>Image ALT test</th>
 <td>require 'alt'attribute</td>
 </tr>
 <tr>
-<th>site maps</th>
+<th>Site Maps</th>
 <td>1site map in this website</td>
 </tr>
 <tr>
-<th>google search preview</th>
+<th>Google Search Preview</th>
 <td>home university of delhi http://www.du.ac.in/  skip to navigation skip to content uic.cic.duwa.du radio.dumail.contact us.</td>
 </tr>
 </table>
