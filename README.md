@@ -1,6 +1,6 @@
 # Delhi-University
 <html>
-<marquee><b><i>DU</i></b></marquee>
+#<b><i>DU</i></b>
 <table>
 <tr>
 <th><b>Page Title</b></th>
