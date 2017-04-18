@@ -72,7 +72,7 @@
 </tr>
 <tr>
 <th>Underscores in Links Test</th>
-<td>No Underscores in the in-page URLs are found.<td>
+<td>No Underscores in the in-page URLs are found.</td>
 <td>Use of underscores in separation of words is strictly not advised. In such cases, hyphens should be used instead.</td>
 </tr>
 <tr>
