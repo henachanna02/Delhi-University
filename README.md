@@ -4,10 +4,12 @@
 <table>
 <tr>
 <th><b>Page Title</b></th>
+<th><b>Description</th></b>
+<th><b>Suggestion Box</th></b>
 </tr>
 <tr>
 <th>Page Title</th>
-<td>The search engines will truncate page title to 65 characters home university of delhi.</td>
+<td>The search engines will truncate page title to 65 characters home university of Delhi.</td>
 </tr>
 <tr>
 <th>Meta Description</th>
