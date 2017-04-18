@@ -9,7 +9,8 @@
 </tr>
 <tr>
 <th>Page Title</th>
-<td>The search engines will truncate page title to 65 characters home university of Delhi.</td>
+<td>The title length of this page is 26 characters.</td>
+<td>It is preferrable for search engines to truncate at 65 characters.</td>
 </tr>
 <tr>
 <th>Meta Description</th>
