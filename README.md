@@ -62,7 +62,7 @@
 <td>Currently, there is 1 sitemap for this website.</td>
 <td>A sitemap is a list of pages of a website accessible to the crawlers and users. It is highly advisory to have sitemap.</td>
 <tr>
-<th>Robots.txt Test<th>
+<th>Robots.txt Test</th>
 <td>A Robots.txt file is being used by this website.</td>
 <td>This tool shows blocks web crawlers from specific URLs from the website. This disallows certain files and content on the website and excludes it from indexing.</td>
 </tr>
