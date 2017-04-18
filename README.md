@@ -27,7 +27,7 @@
 <td>10.24 kb</td>
 </tr>
 <tr>
-<th>HTML Compreession Test</th>
+<th>HTML Compression Test</th>
 <td>GZip compression</td>
 </tr>
 <tr>
