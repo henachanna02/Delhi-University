@@ -71,8 +71,18 @@
 <td>This tool shows blocks web crawlers from specific URLs from the website. This disallows certain files and content on the website and excludes it from indexing.</td>
 </tr>
 <tr>
+<th>Underscores in Links Test</th>
+<td>No Underscores in the in-page URLs are found.<td>
+<td>Use of underscores in separation of words is strictly not advised. In such cases, hyphens should be used instead.</td>
+</tr>
+<tr>
+<th>SEO Friendly Tools</th>
+<td>Currently, 156 URLs present on the website can be catagorized as non-SEO-friendly.</td>
+<td>SEO-friendly URLs must contain dashes/hyphens (-), slashes (\/) & lowercase letters.</td>
+</tr>
+<tr>
 <th>Google Search Preview</th>
-<td>Home - University of Delhi http://www.du.ac.in/  (Skip to navigate); Skip to Content uic.cic.duwa.du radio.dumail.contact us.</td>
+<td>Home - University of Delhi http://www.du.ac.in/  (Skip to navigate); Skip to Content : uic.cic.duwa.du radio.dumail.contact us.</td>
 </tr>
 </table>
 </html>
