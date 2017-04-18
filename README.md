@@ -37,6 +37,11 @@
 <td>It is thoroughly advised to use HTML Compression Test like gzip compression.</td>
 </tr>
 <tr>
+<th>Non-Index Tag Checker</th>
+<td>This website does not utilize non-index meta tag.</td>
+<td>This tool ensures that the webpage is read and indexed by search engines to make them prominent to the users.</td>
+</tr>
+<tr>
 <th>Depricated HTML Tags</th>
 <td>Currently, this page is utilizing depricated HTML Tags, which can be harmful.</td>
 <td>Formulate to remove this condition.</td>
