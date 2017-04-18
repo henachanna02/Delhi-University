@@ -4,8 +4,8 @@
 <table>
 <tr>
 <th><b>Page Title</b></th>
-<th><b>Description</th></b>
-<th><b>Suggestion Box</th></b>
+#<th><b>Description</th></b>
+#<th><b>Suggestion Box</th></b>
 </tr>
 <tr>
 <th>Page Title</th>
