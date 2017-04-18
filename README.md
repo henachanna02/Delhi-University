@@ -81,9 +81,24 @@
 <td>Use of underscores in separation of words is strictly not advised. In such cases, hyphens should be used instead.</td>
 </tr>
 <tr>
+<th>Domain Authority</th>
+<td>Currently, the domain authority of this page is below recommended.</td>
+<td>It is required of the domain authority to be above 20 for good results. Domain Authority is a score developed by Moz that predicts how well a website will rank on search engine result pages (SERP). Its scores range from 1 - 100, with higher scores corresponding to a greater ability to rank. </td>
+</tr>
+<tr>
+<th>Page Authority</th>
+<td>Currently, the page authority of this page is below recommended. </td>
+<td> It is required of the page authority to be above 20 for good results. Page Authority is a score developed by Moz that predicts how well a specific page will rank on search engine result pages (SERP). Its scores range from 1-100. </td>
+</tr>
+<tr>
 <th>SEO Friendly Tools</th>
 <td>Currently, 156 URLs present on the website can be catagorized as non-SEO-friendly.</td>
 <td>SEO-friendly URLs must contain dashes/hyphens (-), slashes (\/) & lowercase letters.</td>
+</tr>
+<tr>
+<th> WWW Redirection Test </th>
+<td> Currently, this website does not redirect to www.du.ac.in and du.ac.in to the same URL. Hence it is not applied here! </td>
+<td> WWW Redirection is not placed to redirect traffic from your non-preferred domain, it is used for makign a webpage available under many URLs. This is also known as Domain Forwarding & Domain Redirection. </td>
 </tr>
 <tr>
 <th>Google Search Preview</th>
